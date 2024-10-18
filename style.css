@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6ccff; /* Lilás claro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    border: 2px solid #d6b3ff; /* Borda lilás */
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #6a0dad; /* Roxo escuro */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+    color: #5c0088; /* Roxo mais forte */
+}
+
+input, select {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #d6b3ff; /* Borda lilás claro */
+    border-radius: 5px;
+    font-size: 1rem;
+    background-color: #f9f2ff; /* Fundo lilás claro */
+}
+
+button {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #6a0dad; /* Roxo */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4b0082; /* Roxo mais escuro no hover */
+}
+
+#result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f1e6ff; /* Lilás clarinho */
+    border-radius: 5px;
+    font-size: 1.2rem;
+    text-align: center;
+    color: #6a0dad; /* Roxo escuro */
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+}
