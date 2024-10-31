@@ -1,20 +1,23 @@
-# Formulário de Cadastro.
+# Conversor de Moedas.
 
 ## Começando 🚀
-Nesse projeto, foi criada uma Tela de Cadastro de Usuários na seguinte matéria:
+Nesse projeto, foi criada um Conversor de Moedas na seguinte matéria:
 * Programação Web I.
 
 ## Sobre o projeto 📋
-Este projeto tem como objetivo criar um formulário de cadastro completo para plataformas de e-Commerce. O formulário é essencial para que os usuários possam criar contas, permitindo a personalização da experiência de compra e facilitando o gerenciamento de pedidos.
+Este projeto é um conversor de moedas simples. Ele permite que o usuário insira um valor e selecione a moeda de origem e a moeda de destino para realizar a conversão. 
 
 ## Técnicas e Tecnologias utilizadas 🔨
-* Visual Studio Code 
-* Git Bash
-* Git Hub
-* HTML5
-* CSS3
-* JavaScript
-* Live Server (A extensão Live Server permite criar um servidor local através do VSCode. Com ele é cortado a necessidade de sempre que fizer uma alteração no código atualizar o navegador.)
+* Visual Studio Code.
+* Git Bash.
+* Git Hub.
+* HTML5.
+* CSS3.
+* JavaScript Puro.
+* Live Server (A extensão Live Server permite criar um servidor local através do VSCode. Com ele é cortado a necessidade de sempre que fizer uma alteração no código atualizar o navegador).
+
+## Foto do projeto.
+![](conversor.png)
 
 ## Autores ✍🏻
 | [<img loading="eu.jpeg" src="eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
