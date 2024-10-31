@@ -18,6 +18,8 @@ Este projeto é um conversor de moedas simples. Ele permite que o usuário insir
 
 ## Foto do projeto.
 ![](conversor.png)
+  Essa é a tela do conversor.
+![](conversorpronto.png)
 
 ## Autores ✍🏻
 | [<img loading="eu.jpeg" src="eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
